@@ -17,4 +17,20 @@ I am expanding my expertise in machine learning, data science, and scalable syst
 ### 📫 Connect with Me
 - [linkedin.com/in/fahim-francis-1183b4294](https://www.linkedin.com/in/fahim-francis-1183b4294/)
 - faheemfrancis99@gmail.com
+💻 Projects
+⚽ FIFA World Cup Outcome Prediction
+Applying machine learning algorithms to predict match outcomes using historical data and team statistics.
+
+
+🌲 Pepse Project
+Developed a 2D procedurally generated game with dynamic terrain, day-night cycles, and an interactive player avatar using Java.
+
+🧱 Bricker Project
+Created a brick-breaking arcade-style game featuring physics-based collisions and dynamic gameplay elements.
+
+![Screenshot (95)](https://github.com/user-attachments/assets/cbe98d8e-2ab5-4d66-8bce-b65927c2f983)
+![Uploading Screenshot (96).png…]()
+
+
+
 
