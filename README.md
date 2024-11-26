@@ -18,6 +18,8 @@ I am expanding my expertise in machine learning, data science, and scalable syst
 - [linkedin.com/in/fahim-francis-1183b4294](https://www.linkedin.com/in/fahim-francis-1183b4294/)
 - faheemfrancis99@gmail.com
 
+---
+
 ### 💻 Projects
 
 - ⚽ **FIFA World Cup Outcome Prediction**  
@@ -29,8 +31,12 @@ I am expanding my expertise in machine learning, data science, and scalable syst
 - 🧱 **Bricker Project**  
   Created a brick-breaking arcade-style game featuring physics-based collisions and dynamic gameplay elements.
 
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/cbe98d8e-2ab5-4d66-8bce-b65927c2f983" alt="Screenshot 95" width="400px">
-</div>
+- 🤖 **AI Final Project - Can't Go Back Game**  
+  Designed and implemented multi-agent search algorithms to optimize iRobot performance in a competitive room-cleaning task. Utilized Minimax with Alpha-Beta pruning and Q-Learning for adaptive decision-making.  
+  <div align="left">
+    <img src="https://github.com/user-attachments/assets/irobot-icon.png" alt="iRobot Icon" width="100px">
+  </div>
 
+---
 
+Feel free to connect and check out my projects for more insights into my work and skills!
