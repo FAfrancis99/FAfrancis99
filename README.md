@@ -33,9 +33,9 @@ I am expanding my expertise in machine learning, data science, and scalable syst
 
 - 🤖 **AI Final Project - Can't Go Back Game**  
   Designed and implemented multi-agent search algorithms to optimize iRobot performance in a competitive room-cleaning task. Utilized Minimax with Alpha-Beta pruning and Q-Learning for adaptive decision-making.  
-  <div align="left">
-    <img src="https://github.com/user-attachments/assets/irobot-icon.png" alt="iRobot Icon" width="100px">
-  </div>
+ <div align="left">
+  <img src="https://github.com/user-attachments/assets/cbe98d8e-2ab5-4d66-8bce-b65927c2f983" alt="Screenshot 95" width="400px">
+</div>
 
 ---
 
