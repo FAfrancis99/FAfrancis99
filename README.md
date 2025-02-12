@@ -5,7 +5,7 @@ I'm a Computer Science student at the Hebrew University in my final year, with a
 
 ### 🛠️ Skills
 - **Languages:** C++, C, Python, Java, SQL
-- **Focus Areas:** Data analysis, algorithms, and full-stack software development
+- **Focus Areas:** software engineering, machine learning, algorithms, and data science.
 - **Tools & Frameworks:** Git, Jupyter Notebooks, Scikit-Learn, and more
 
 ### 📌 Current Project
