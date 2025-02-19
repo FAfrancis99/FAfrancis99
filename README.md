@@ -9,7 +9,7 @@ I'm a Computer Science student at the Hebrew University in my final year, with a
 - **Tools & Frameworks:** Git, Jupyter Notebooks, Scikit-Learn, and more
 
 ### 📌 Current Project
-I’m currently working on a FIFA World Cup match outcome prediction project, applying machine learning algorithms to make accurate predictions based on historical data.
+I’m currently working on the CBIO Hackathon, focusing on predicting antibiotic resistance using machine learning algorithms.
 
 ### 🌱 Learning & Growth
 I am expanding my expertise in machine learning, data science, and scalable systems.
@@ -28,8 +28,7 @@ I am expanding my expertise in machine learning, data science, and scalable syst
 - 🌲 **Pepse Project**  
   Developed a 2D procedurally generated game with dynamic terrain, day-night cycles, and an interactive player avatar using Java.
 
-- 🧱 **Bricker Project**  
-  Created a brick-breaking arcade-style game featuring physics-based collisions and dynamic gameplay elements.
+-🧬 CBIO Hackathon - Predicting Antibiotic ResistanceDeveloped machine learning models to analyze genomic patterns and predict antibiotic resistance. Utilized logistic regression, SVM, and random forest algorithms with k-mer frequency features. Visualized performance metrics using ROC curves and feature importance graphs.
 
 - 🤖 **AI Final Project - Can't Go Back Game**  
   Designed and implemented multi-agent search algorithms to optimize iRobot performance in a competitive room-cleaning task. Utilized Minimax with Alpha-Beta pruning and Q-Learning for adaptive decision-making.  
