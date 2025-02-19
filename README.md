@@ -28,7 +28,8 @@ I am expanding my expertise in machine learning, data science, and scalable syst
 - 🌲 **Pepse Project**  
   Developed a 2D procedurally generated game with dynamic terrain, day-night cycles, and an interactive player avatar using Java.
 
--🧬 CBIO Hackathon - Predicting Antibiotic ResistanceDeveloped machine learning models to analyze genomic patterns and predict antibiotic resistance. Utilized logistic regression, SVM, and random forest algorithms with k-mer frequency features. Visualized performance metrics using ROC curves and feature importance graphs.
+-🧬 **CBIO Hackathon**
+  Predicting Antibiotic ResistanceDeveloped machine learning models to analyze genomic patterns and predict antibiotic resistance. Utilized logistic regression, SVM, and random forest algorithms with k-mer frequency     features. Visualized      performance metrics using ROC curves and feature importance graphs.
 
 - 🤖 **AI Final Project - Can't Go Back Game**  
   Designed and implemented multi-agent search algorithms to optimize iRobot performance in a competitive room-cleaning task. Utilized Minimax with Alpha-Beta pruning and Q-Learning for adaptive decision-making.  
