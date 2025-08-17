@@ -12,4 +12,5 @@ CS BSc @ Hebrew University. Junior SWE (ML + backend) in Python/Java/C++. Built 
 - [linkedin.com/in/fahim-francis-1183b4294](https://www.linkedin.com/in/fahim-francis-1183b4294/)
 - faheemfrancis99@gmail.com
 - **CV:** [📄 Download (PDF)](./Faheem_Francis_CV.pdf)
+  
 Feel free to connect and check out my projects for more insights into my work and skills!
